@@ -30,3 +30,6 @@ This training session is designed to equip participants with essential skills in
     Guided exercises to reinforce learning and build confidence in applying data cleaning techniques.
 
 By the end of this training, participants will have a solid understanding of data cleaning fundamentals and hands-on experience in applying these techniques to real-world datasets, preparing them for more advanced data analysis and predictive modeling tasks.
+
+![xx](https://github.com/user-attachments/assets/832734c6-8f8f-4072-a15a-1b07dcf34755)
+
